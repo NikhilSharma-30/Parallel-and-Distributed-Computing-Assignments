@@ -32,11 +32,13 @@ Files:
 3) DAXPY.cpp - Implements the DAXPY operation (Double-precision A·X Plus Y) for vector computations.
 
 How to Compile and Run
+
 Each C++ file can be compiled using g++ 
 
 Example:
 
 g++ filename.cpp 
+
 -o output
 ./output
 
