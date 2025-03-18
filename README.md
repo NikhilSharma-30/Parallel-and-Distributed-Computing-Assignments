@@ -4,10 +4,10 @@ Assignments 1-3 Solutions
 Assignment 1
 This assignment focuses on basic message passing and communication in C++.
 Files:
-DynamicRecv.cpp - Implements dynamic message receiving between processes.
-HelloWorld.cpp - A simple program that prints "Hello, World!".
-RandomWalk.cpp - Simulates a random walk process.
-SendRecv.cpp - Demonstrates basic send and receive operations in communication.
+1) DynamicRecv.cpp - Implements dynamic message receiving between processes.
+2) HelloWorld.cpp - A simple program that prints "Hello, World!".
+3) RandomWalk.cpp - Simulates a random walk process.
+4) SendRecv.cpp - Demonstrates basic send and receive operations in communication.
 
 Assignment 2
 This assignment covers parallel computing techniques, including sorting, matrix operations, and parallel reductions.
