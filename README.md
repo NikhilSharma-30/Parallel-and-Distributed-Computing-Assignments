@@ -3,6 +3,7 @@ Assignments 1-3 Solutions
 
 Assignment 1
 This assignment focuses on basic message passing and communication in C++.
+
 Files:
 1) DynamicRecv.cpp - Implements dynamic message receiving between processes.
 2) HelloWorld.cpp - A simple program that prints "Hello, World!".
@@ -11,6 +12,7 @@ Files:
 
 Assignment 2
 This assignment covers parallel computing techniques, including sorting, matrix operations, and parallel reductions.
+
 Files:
 1) EvenOddSort.cpp - Implements an even-odd sort algorithm in parallel.
 2) HeatDistribution.cpp - Simulates heat distribution using computational grids.
@@ -23,6 +25,7 @@ Files:
 
 Assignment 3
 This assignment deals with numerical computations and optimizations.
+
 Files:
 1) CalculatingPi.cpp - Estimates the value of Pi using computational methods.
 2) CountPrime.cpp - Counts the number of prime numbers within a given range.
@@ -30,8 +33,11 @@ Files:
 
 How to Compile and Run
 Each C++ file can be compiled using g++ 
+
 Example:
-g++ filename.cpp -o output
+
+g++ filename.cpp 
+-o output
 ./output
 
 Requirements
